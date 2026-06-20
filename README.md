@@ -1,21 +1,25 @@
+<div align="center">
+
+<img src="https://img.shields.io/badge/Node.js-18+-339933?style=for-the-badge&logo=node.js&logoColor=white" alt="Node.js"/>
+<img src="https://img.shields.io/badge/Express-4.19-000000?style=for-the-badge&logo=express&logoColor=white" alt="Express"/>
+<img src="https://img.shields.io/badge/Socket.io-4.7-black?style=for-the-badge&logo=socket.io&logoColor=white" alt="Socket.io"/>
+<img src="https://img.shields.io/badge/Status-Live-success?style=for-the-badge" alt="Status"/>
+
 # 💬 Pulse — Real-Time Chat Application
+### *Live. Instant. Wherever you are.*
 
-[![Node.js](https://img.shields.io/badge/Node.js-18+-339933?style=for-the-badge&logo=node.js&logoColor=white)](https://nodejs.org)
-[![Express](https://img.shields.io/badge/Express-4.19-000000?style=for-the-badge&logo=express&logoColor=white)](https://expressjs.com/)
-[![Socket.io](https://img.shields.io/badge/Socket.io-4.7-black?style=for-the-badge&logo=socket.io&logoColor=white)](https://socket.io/)
-[![Status](https://img.shields.io/badge/Status-Active-brightgreen?style=for-the-badge)](#)
+> A real-time multi-room chat app with typing indicators and live presence — built with Node.js, Express & Socket.io.
 
-### ⚡ Real-Time Rooms, Typing Indicators & Live Presence
+**Developed & Designed by [Vignesh Yadala](https://github.com/Vigneshyadala) — © 2026**
 
-*A multi-room chat app that runs on an actual server — not a single-tab demo — so anyone on any device, anywhere, can join and chat live*
+[![Live Demo](https://img.shields.io/badge/🌐%20Live%20Demo-pulse--chat--rj4d.onrender.com-339933?style=for-the-badge)](https://pulse-chat-rj4d.onrender.com/)
+[![GitHub](https://img.shields.io/badge/GitHub-Vigneshyadala-black?style=for-the-badge&logo=github)](https://github.com/Vigneshyadala/pulse-chat)
 
-[🎯 Features](#-key-features) • [🏗 Architecture](#-system-architecture) • [🛠 Tech Stack](#-technology-stack) • [🚀 Setup](#-installation--setup) • [📡 Events](#-socketio-events) • [👨‍💻 Author](#-developer)
-
-### 🔗 [**Live Demo →  pulse-chat-rj4d.onrender.com**](https://pulse-chat-rj4d.onrender.com/)
+</div>
 
 ---
 
-**Version 1.0 | 2026**
+[🎯 Features](#-key-features) • [🏗 Architecture](#-system-architecture) • [🛠 Tech Stack](#-technology-stack) • [🚀 Setup](#-installation--setup) • [📡 Events](#-socketio-events) • [👨‍💻 Author](#-developer)
 
 ---
 
@@ -288,18 +292,32 @@ pulse-chat/
 
 ---
 
-## 📜 License
+## 📸 Try It Live
 
-MIT License — free for personal use with attribution.
+> 🌐 Try it now → [pulse-chat-rj4d.onrender.com](https://pulse-chat-rj4d.onrender.com/)
 
 ---
 
-## 👨‍💻 Developer
+## 👨‍💻 Developers
+
+<div align="center">
+
+| Name | Role | GitHub |
+|------|------|--------|
+| **Vignesh Yadala** | Developer & Designer | [![GitHub](https://img.shields.io/badge/GitHub-Vigneshyadala-black?style=flat&logo=github)](https://github.com/Vigneshyadala) |
+
+</div>
 
 *Built as part of a CSE fresher project portfolio. Design: crimson/rose dark theme with an ambient "pulse" animation to visually echo the real-time nature of the app.*
 
 ---
 
-### 🌟 If this project helped you, consider giving it a star! 🌟
+<div align="center">
 
-**© 2026**
+**💬 Pulse — All Rights Reserved © Vignesh Yadala 2026**
+
+*Built with Node.js, Express & Socket.io*
+
+🌟 *If this project helped you, consider giving it a star!* 🌟
+
+</div>
